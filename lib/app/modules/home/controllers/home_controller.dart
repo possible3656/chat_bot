@@ -65,7 +65,7 @@ class HomeController extends GetxController {
 
     Map<String, String> header = {
       // "content-type": "application/json",
-      "X-RapidAPI-Key": "d3f2f3a14amsh09dabcba72546d4p12b1b7jsn58bc185d4019",
+      "X-RapidAPI-Key": "replace with your own api key",
       "X-RapidAPI-Host": "aeona3.p.rapidapi.com"
     };
     try {
